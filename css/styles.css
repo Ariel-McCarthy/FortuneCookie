@@ -1,0 +1,62 @@
+header, nav, footer
+{
+    text-align: center;
+}
+nav a
+{
+    padding: 15px;
+    padding-bottom: 4px;
+    font-size: 1.8em;
+    text-decoration: none;
+    color: black;
+}
+Home:hover
+{
+    font-size: 1.5em;
+    transition: .5s;
+}
+#fortune 
+{
+    text-align: center;
+    color: black;
+}
+body 
+{
+    background-image: url("../cherryBlossom.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-background-size: contain;
+    -moz-background-size: contain;
+    -o-background-size: contain;
+    background-size: contain;
+}
+.container 
+{
+    position: relative;
+    text-align: center;
+    color: red;
+    font-size: small
+}
+.centered 
+{
+    position: absolute;
+    top: 39%;
+    left: 45.2%;
+    transform: translate(-50%, -50%);
+    transform: rotate(344deg);
+}
+.container2 
+{
+    position: relative;
+    text-align: center;
+    color: red;
+    font-size: medium;
+}
+.centered2 
+{
+    position: absolute;
+    top: 44.7%;
+    left: 49.4%;
+    transform: translate(-50%, -50%);
+    transform: rotate(312deg);
+}
