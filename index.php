@@ -26,7 +26,7 @@
         <footer>
             <div>
             <hr width = "50%"/>
-            &copy; Sovreign-Ariel S. McCarthy <br/>
+            &copy; Morgan Hamilton <br/>
             </div>
         </footer>
     </body>
